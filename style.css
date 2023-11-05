@@ -5,7 +5,7 @@
 }
 .navbar{
 
-border: none;
+border: solid;
 background-color: rgb(124, 124, 124);
 color: #000000;
 text-align: center;
@@ -51,6 +51,7 @@ font-size: 30px;
 }
 .navbar-brand{
 	color: black;
+	
 }
 
 @media (min-width: 992px){
